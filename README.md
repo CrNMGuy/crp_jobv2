@@ -1,9 +1,11 @@
 Développement fait dans le cadre de CRP.
 ---------------------------------------
 Brief fonctionnalité : Equipe CRP
+
 Développement & projet : Florian
 
 Statut : Fonctionnel, lieux à définir
+
 Dépendances : Polyzone, qtarget, ESX
 
 
